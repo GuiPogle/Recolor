@@ -1,0 +1,55 @@
+## Modelo de Domínio
+|![image](https://github.com/GuiPogle/EngenhariaSoftware/assets/84653771/d69412a2-f4c3-4f3d-98f6-6c69d7ceeb48)|
+|:--:|
+|_Feito no StarUML._|
+
+
+## Casos de Uso e Especificações de Casos de Uso
+### _**Casos de Uso**_
+ 
+|![image](https://github.com/GuiPogle/EngenhariaSoftware/assets/84653771/c529106e-460f-42a6-9de0-f1a593542ff0)|
+|:--:|
+|_Feito no StarUML._|
+
+
+
+
+
+_**1. Especificação de Caso de Uso e Fluxo Principal**_
+| Nome | Descrição |  
+| --- | --- | 
+| Identificador: | UC01 | 
+| Nome: | Selecionar o tipo de daltonismo |  
+| Atores: | Usuário |  
+| Sumário: | Para que as cores adaptadas sejam implementadas, o usuário realiza a seleção do tipo de daltonismo. |  
+| Pré-Condição: | O usuário deve ter instalado em seu navegador a extensão _Recolor_. |  
+| Pós-Condição: | As cores do navegador foram alteradas de acordo com as necessidades do usuário. |  
+
+| Ação Ator | Ação Sistema | 
+| --- | --- | 
+| 1. O usuário seleciona o tipo de daltonismo na extensão. |  |  
+|  | 2. O sistema altera as cores do navegador em que está instalado, de acordo com a seleção do tipo de daltonismo. |  
+
+
+
+
+_**2. Especificação de Caso de Uso e Fluxo Principal**_
+| Nome | Descrição |  
+| --- | --- | 
+| Identificador: | UC02 | 
+| Nome: | Calibrar cores |  
+| Atores: | Usuário |  
+| Sumário: | Após a seleção do tipo de daltonismo, as cores podem ser calibradas pelo usuário conforme haja necessidade.  |  
+| Pré-Condição: | O usuário deve ter instalado em seu navegador a extensão _Recolor_ e ter selecionado o tipo de daltonismo. |  
+| Pós-Condição: | As cores do navegador foram alteradas de acordo com as necessidades do usuário. | 
+
+| Ação Ator | Ação Sistema | 
+| --- | --- | 
+| 1. O usuário refina as cores alteradas, calibrando-as. |  |  
+|  | 2. O sistema registra as alterações nas cores e as atualiza no navegador. Caso de uso encerrado. |  
+ 
+
+## Diagrama de Sequência
+|![diagrama_seq_tg3](https://github.com/GuiPogle/EngenhariaSoftware/assets/110985632/70eae2d1-86f1-443d-8443-b7e983c19630)|
+| --- |
+|O diagrama a seguir foi feito no StarUML.|
