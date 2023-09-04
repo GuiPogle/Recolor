@@ -4,21 +4,13 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | RQ1: | Utilizar recursos para tornar a experiência do usuário dinâmica dentro do software desenvolvido. | RNF | - | Alto | Alta | Alto |
 | RQ2: | Utilizar paleta de cores e elementos de navegação simples e padronizados. | RNF | - | Baixo | Alta | Baixo |
-| RQ3: | Localização diversa (línguas diferentes). | RF | - | Médio | Alta | Baixo |
-| RQ4: | Link para fazer teste online de qual discromatopsia o usuário possui. | RF | - | Baixo | Média | Baixo |
-| RQ5: | Página de feedback para comunicação entre usuários e devs. | RF | - | Baixo | Média | Baixo |
-| RQ6: | Facilidade de acesso | RNF |  | Baixo | Médio | Médio |
-| RQ7: | Uso fácil | RNF |  | Baixo | Médio | Baixo |
-| RQ8: | Sem interferência com navegador | RNF |  | Alto | Alta | Alto |
-| RQ9: | Calibragem para tipos de daltonismo | RF |  | Alto | Alta | Alto |
-| RQ10: | Uso eficiente de recursos | RNF |  | Alto | Média | Médio |
-| RQ11: | Opção para calibração de cores para todos os tipos de discromatopsia. | RF | - | Alto | Alta | Alto |
-| RQ12: | Aba de ajuda para instalação e guia para utilização da extensão. | RF | - | Médio | Alta | Médio |
-| RQ13: | Aba para alteração de idioma para a facilidade de entendimento. | RF | - | Alto | Média | Médio |
-| RQ14: | Compatibilidade com a maioria das aplicações web. | RNF | - | Alto | Alta | Alto |
-| RQ15: | Opção de feedback da extensão. | RF | - | Médio | Alto | Médio |
-| RQ16: | Disponibilizar uma opção de calibração de cores para o usuário de acordo com o subtipo de discromatopsia. | RF | - | Alto | Alta | Alto |
-| RQ17: | Ter a opção de informar erros da extensão. | RF | - | Médio | Alta | Médio |
-| RQ18: | Não alterar a velocidade de carregamento do site por conta da extensão. | RNF | - | Alto | Média | Médio |
-| RQ19: | Ser compatível com a maior quantidade de aplicações web possível. | RNF | - | Alto | Alta | Alto |
-| RQ20: | Conter uma página informativa, tanto com instruções de como utilizar a extensão para o usuário quanto informações relevantes sobre o daltonismo. | RF | - | Médio | Baixa | Baixo |
+| RQ3: | Link para fazer teste online de qual discromatopsia o usuário possui. | RF | - | Baixo | Média | Baixo |
+| RQ4: | Página de feedback para comunicação entre usuários e devs. | RF | - | Baixo | Média | Baixo |
+| RQ5: | Opção para calibração de cores para todos os tipos de discromatopsia. | RF | - | Alto | Alta | Alto |
+| RQ6: | Aba de ajuda para instalação e guia para utilização da extensão. | RF | - | Médio | Alta | Médio |
+| RQ7: | Aba para alteração de idioma. | RF | - | Alto | Média | Médio |
+| RQ8: | Compatibilidade com a maioria das aplicações web. | RNF | - | Alto | Alta | Alto |
+| RQ9: | Opção de feedback da extensão. | RF | - | Médio | Alto | Médio |
+| RQ10: | Ter a opção de informar erros da extensão. | RF | - | Médio | Alta | Médio |
+| RQ11: | Não alterar a velocidade de carregamento do site por conta da extensão. | RNF | - | Alto | Média | Médio |
+| RQ12: | Conter uma página informativa, tanto com instruções de como utilizar a extensão para o usuário quanto informações relevantes sobre o daltonismo. | RF | - | Médio | Baixa | Baixo |
