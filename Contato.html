@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Recolor!</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+    <style>
+      .container {
+            position: relative;
+        }
+        body {
+           background-color: #0D99FF;
+        }
+          .barra-preta {
+            background-color: black;
+            height: 80px; /* Altura da barra preta */
+            width: 100%; /* Largura da barra preta (100% da largura da janela) */  position: relative;
+            position: absolute;
+            top: -15px; /* Distância do topo em pixels */
+            /*left: 0; /* Distância da esquerda em pixels (opcional) */
+        }
+            .texto-sobre-barra1 {
+            color: white; 
+            position: absolute;
+            top: 10px;
+            left: 120px;
+            right: 0;
+            bottom: 50px;
+            line-height: 35px; /* A mesma altura da barra para centralizar o texto verticalmente */
+            word-spacing: 10px;
+            z-index: 2; /*traz para frente o texto valor maior q o padrão */
+        }
+          .texto-sobre-barra2 {
+            color: white; /* Cor do segundo texto */
+            position: absolute;
+            top: 10px; /* Ajuste a posição vertical do segundo texto */
+            right: 0px;
+            left: 8px;
+            line-height:35px;/* Ajuste a posição horizontal do segundo texto para a direita */
+            font-weight: bold;
+            font-size:28px
+        }
+          .texto-1 {
+            color: white;
+            text-align: center;
+            font-size:35px;
+            position: absolute;
+            top:100px;
+            left:200px;
+            right:0px;
+          }
+          .texto-2{
+            color: white;
+            text-align:justify;
+            font-size: 26px;
+            position:absolute;
+            top:250px;
+            left:400px;
+            right:300px;
+          }
+          .texto-3 {
+            color: white;
+            text-align: center;
+            font-size:16px;
+            position: absolute;
+            top:800px;
+            left:200px;
+            right:0px;
+          }
+
+</style>
+</head>
+
+<body>
+  <script src="script.js"></script>
+  <div class="container">
+    <div class="barra-preta"></div>
+    <div class="texto-sobre-barra1"><a href="Daltonismo.html">Daltonismo</a> <a href="Download.html">Instalação</a> <a href="Teste.html">Teste de Discromatsopia</a>   <a href="Sobre.html">Sobre</a>  <a href="Contato.html">Contato</a> </div>
+    <div class="texto-1">Ficou alguma dúvida? <br> Entre em contato conosco.</div>
+    <div class="texto-2">guilhermevalente.profissional@gmail.com</div>
+    <div class="texto-3"> *Disponível apenas para o navegador Chrome no momento.</div>
+    <div class="texto-sobre-barra2"> <a href="index.html">Recolor!</a> </div>      
+
+  <script src="https://replit.com/public/js/replit-badge-v2.js" theme="red" position="bottom-right"></script>
+</body>
+
+</html>
